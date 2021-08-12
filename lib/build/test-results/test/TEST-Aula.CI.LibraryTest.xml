@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Aula.CI.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T22:43:44" hostname="b3ccf6e10d7a" time="0.045">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="Aula.CI.LibraryTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
