@@ -6,6 +6,6 @@ package Aula.CI;
 public class Library {
     public boolean someLibraryMethod() {
     	
-        return false;
+        return true;
     }
 }
