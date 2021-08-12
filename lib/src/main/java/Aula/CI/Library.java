@@ -5,7 +5,7 @@ package Aula.CI;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	boolean a = false;
-        return a;
+    	
+        return true;
     }
 }
